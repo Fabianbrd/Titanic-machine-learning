@@ -242,7 +242,7 @@ python notebooks/06_generar_predicciones.py
 
 **Edgar Fabián Cabrera Bardales**
 
-Junior Data Analyst | Python | SQL | Power BI | Data Analytics
+Data Analyst | Python | SQL | Power BI | Data Analytics
 
 ---
 
@@ -403,4 +403,4 @@ Los datos originales y procesados no están incluidos en el repositorio; se gene
 
 **Edgar Fabián Cabrera Bardales**
 
-Junior Data Analyst | Python | SQL | Power BI | Data Analytics
+Data Analyst | Python | SQL | Power BI | Data Analytics
