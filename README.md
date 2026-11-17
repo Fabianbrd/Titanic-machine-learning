@@ -173,7 +173,7 @@ The Kaggle score is the result reported by the competition platform. It is separ
 
 ### Step 1. Get the project
 
-After the repository is published, open it on GitHub and use **Code → Download ZIP**. Extract the downloaded folder and open it in VS Code.
+After accessing the repository on GitHub, use Code → Download ZIP.**. Extract the downloaded folder and open it in VS Code.
 
 If you prefer to use Git, open the repository's **Code** menu on GitHub, copy the clone URL and run `git clone` followed by that URL in PowerShell or your terminal.
 
